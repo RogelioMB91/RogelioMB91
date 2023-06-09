@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
+Java developer, the only css i use is here... jk 😜
 
 **I love working with**
 
